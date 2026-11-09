@@ -11,7 +11,7 @@ Expertise
 * AI Gameplay Systems
 * Character Rigging
 * Technical Art
-* Current Projects
+Current Projects
 * ⚽ Football Simulation Game
 
 * 🎮 Multiplayer Action Game
