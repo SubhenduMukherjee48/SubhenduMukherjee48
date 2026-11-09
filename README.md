@@ -3,7 +3,7 @@ Hi, I'm Subhendu Mukherjee
 
 Founder of Shivam Gaming Animations.
 
-##Expertise
+## Expertise
 
 * Unity Development
 * Unreal Engine
@@ -13,7 +13,7 @@ Founder of Shivam Gaming Animations.
 * Character Rigging
 * Technical Art
 
-##Current Projects
+## Current Projects
 
 * ⚽ Football Simulation Game
 
@@ -21,7 +21,7 @@ Founder of Shivam Gaming Animations.
 
 * 🥽 VR Development
 
-##Portfolio
+## Portfolio
 
 * 🌐 Website https://sites.google.com/view/shivamgaminganimations/home
 
