@@ -1,4 +1,4 @@
- Hi, I'm Subhendu Mukherjee
+Hi, I'm Subhendu Mukherjee
 🎮 Senior Unity Game Developer & Technical Artist
 
 Founder of Shivam Gaming Animations.
