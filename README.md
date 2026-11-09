@@ -12,11 +12,11 @@ Expertise
 * Character Rigging
 * Technical Art
 * Current Projects
-⚽ Football Simulation Game
+* ⚽ Football Simulation Game
 
-🎮 Multiplayer Action Game
+* 🎮 Multiplayer Action Game
 
-🥽 VR Development
+* 🥽 VR Development
 
 Portfolio
 * 🌐 Website https://sites.google.com/view/shivamgaminganimations/home
